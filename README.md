@@ -36,7 +36,9 @@ ml-pipeline-performance/
 
 A visual evaluation of model performance using `confusion_matrix` and `seaborn.heatmap`.
 
-![Confusion Matrix](assets/confusion_matrix_example.png) *(Add your saved image here if needed)*
+![Confusion Matrix]
+![image](https://github.com/user-attachments/assets/b3607815-5e86-45e4-aaf1-168f9b9367fb)
+![image](https://github.com/user-attachments/assets/44c5c35c-b497-4cb3-9a85-c98b1e1e3f42)
 
 ---
 
